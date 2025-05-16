@@ -1,0 +1,16 @@
+Prompt Type       Output #   BERTScore F1
+Direct instruction 1          0.8851
+Direct instruction 2          0.8695
+Direct instruction 3          0.8724
+Scenario-based     1          0.8457
+Scenario-based     2          0.8551
+Scenario-based     3          0.8524
+Persona-based      1          0.8647
+Persona-based      2          0.8603
+Persona-based      3          0.8572
+Keyword-based      1          0.8525
+Keyword-based      2          0.8498
+Keyword-based      3          0.8521
+Conversational     1          0.8649
+Conversational     2          0.8656
+Conversational     3          0.8475

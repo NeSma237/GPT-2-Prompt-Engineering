@@ -1,0 +1,5 @@
+1. Direct instruction: Write a motivational quote about overcoming fear.
+2. Scenario-based: Imagine you’re helping a friend who failed a test. Write something encouraging.
+3. Persona-based: As a wise monk, write a quote about inner strength.
+4. Keyword-based: Using the words 'growth', 'struggle', and 'hope', write something inspiring.
+5. Conversational: User: I feel like giving up. GPT-2: Here's a quote for you:

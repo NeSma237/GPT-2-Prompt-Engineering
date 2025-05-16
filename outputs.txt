@@ -1,0 +1,49 @@
+--- Direct instruction Prompt ---
+Output 1:
+Write a motivational quote about overcoming fear. This may help you become more productive. Try to make a few changes to your routine. Try to keep your diet low, and at the same time, give yourself a break.
+
+Output 2:
+Write a motivational quote about overcoming fear. Talk about how you learned to love yourself. Show a lot of love. Tell your kids that you love them.
+
+Output 3:
+Write a motivational quote about overcoming fear. You can also add a note about how you will deal with the pain and fear from this problem.
+
+--- Scenario-based Prompt ---
+Output 1:
+Imagine you’re helping a friend who failed a test. Write something encouraging. And when you're not helping someone else, you'll probably find yourself wondering, "Why am I telling you this?"
+
+Output 2:
+Imagine you’re helping a friend who failed a test. Write something encouraging. Take a deep breath. Don't give up. Take a big hard look. If your friend is struggling to get through his test, go to your doctor.
+
+Output 3:
+Imagine you’re helping a friend who failed a test. Write something encouraging. If someone makes you feel better about yourself, please think about it. If you feel depressed, want to help, or want to make friends, try something new.
+
+--- Persona-based Prompt ---
+Output 1:
+As a wise monk, write a quote about inner strength. I would like to know if you feel the same way. So, what can we do to increase our personal ability to do so?
+
+Output 2:
+As a wise monk, write a quote about inner strength. In the book, you will also learn to think as well as you think, and to become more like your body.
+
+Output 3:
+As a wise monk, write a quote about inner strength. Then, you can tell me how to improve your life. What's the most difficult thing you have ever done?
+
+--- Keyword-based Prompt ---
+Output 1:
+Using the words 'growth', 'struggle', and 'hope', write something inspiring. The hope is to build something that will make it happen. The hope is to make it possible to overcome our difficulties and turn away from the struggle.
+
+Output 2:
+Using the words 'growth', 'struggle', and 'hope', write something inspiring. A successful and successful person needs to have a deep understanding of what they have just experienced.
+
+Output 3:
+Using the words 'growth', 'struggle', and 'hope', write something inspiring. "The story of my life begins with the work I put into teaching my children about the world, and how they can learn to value it.
+
+--- Conversational Prompt ---
+Output 1:
+User: I feel like giving up. GPT-2: Here's a quote for you: "If you want to participate in a group (and you want to do it on your own), we're going to give you that!"
+
+Output 2:
+User: I feel like giving up. GPT-2: Here's a quote for you: "This is not about getting you back to the game." "No, I'm not going to give up on it."
+
+Output 3:
+User: I feel like giving up. GPT-2: Here's a quote for you: "It's your right to be there as long as you want," said Ralston. "But it's also your right to be"
